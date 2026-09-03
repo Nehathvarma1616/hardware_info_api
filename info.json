@@ -1,0 +1,3932 @@
+[
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "kernel_task",
+        "pid": 0
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "launchd",
+        "pid": 1
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "logd",
+        "pid": 328
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "smd",
+        "pid": 329
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "UserEventAgent",
+        "pid": 330
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "fseventsd",
+        "pid": 332
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "mediaremoted",
+        "pid": 333
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "systemstats",
+        "pid": 336
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "accessoryupdater",
+        "pid": 338
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "uarpassetmanager",
+        "pid": 339
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "configd",
+        "pid": 340
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "endpointsecurity",
+        "pid": 341
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "powerd",
+        "pid": 342
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "IOMFB_bics_daemo",
+        "pid": 343
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "amfid",
+        "pid": 345
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "remoted",
+        "pid": 347
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "keybagd",
+        "pid": 349
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "softwareupdated",
+        "pid": 350
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "corespeechd_syst",
+        "pid": 351
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "watchdogd",
+        "pid": 353
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "mds",
+        "pid": 357
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "iconservicesd",
+        "pid": 358
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "kernelmanagerd",
+        "pid": 359
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "diskarbitrationd",
+        "pid": 360
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "coreduetd",
+        "pid": 363
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "syslogd",
+        "pid": 364
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "thermalmonitord",
+        "pid": 366
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "contextstored",
+        "pid": 367
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "xprotectd",
+        "pid": 368
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "opendirectoryd",
+        "pid": 369
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "apsd",
+        "pid": 370
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "launchservicesd",
+        "pid": 371
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "timed",
+        "pid": 372
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "usbmuxd",
+        "pid": 373
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "securityd",
+        "pid": 374
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "locationd",
+        "pid": 376
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "nesessionmanager",
+        "pid": 377
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "autofsd",
+        "pid": 379
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "dasd",
+        "pid": 380
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "corerepaird",
+        "pid": 381
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "distnoted",
+        "pid": 383
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "AppleCredentialM",
+        "pid": 384
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "PerfPowerService",
+        "pid": 385
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "dirhelper",
+        "pid": 386
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "logind",
+        "pid": 387
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "revisiond",
+        "pid": 388
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "KernelEventAgent",
+        "pid": 389
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "peakpowermanager",
+        "pid": 390
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "usermanagerd",
+        "pid": 391
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "bluetoothd",
+        "pid": 393
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "notifyd",
+        "pid": 394
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "sandboxd",
+        "pid": 395
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "corebrightnessd",
+        "pid": 396
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "AirPlayXPCHelper",
+        "pid": 397
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.cmio.r",
+        "pid": 398
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "aslmanager",
+        "pid": 399
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "logd_helper",
+        "pid": 400
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "WindowServer",
+        "pid": 401
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "tccd",
+        "pid": 402
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "cfprefsd",
+        "pid": 403
+    },
+    {
+        "memory_percent": 0.8029937744140625,
+        "cpu_percent": 0.0,
+        "name": "loginwindow",
+        "pid": 404
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "coreservicesd",
+        "pid": 405
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "fskitd",
+        "pid": 407
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "powerexperienced",
+        "pid": 408
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "securityd_system",
+        "pid": 409
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "backupd-helper",
+        "pid": 410
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "PowerUIAgent",
+        "pid": 411
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "trustd",
+        "pid": 412
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "runningboardd",
+        "pid": 413
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "coreaudiod",
+        "pid": 414
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "trustdFileHelper",
+        "pid": 415
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "containermanager",
+        "pid": 416
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "liquiddetectiond",
+        "pid": 417
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.ifdrea",
+        "pid": 418
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "apfsd",
+        "pid": 419
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "nsurlsessiond",
+        "pid": 420
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "nehelper",
+        "pid": 421
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "analyticsd",
+        "pid": 422
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "biometrickitd",
+        "pid": 423
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "airportd",
+        "pid": 424
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "lsd",
+        "pid": 425
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "systemstatusd",
+        "pid": 427
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "mobileassetd",
+        "pid": 429
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "AudioComponentRe",
+        "pid": 431
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "eligibilityd",
+        "pid": 432
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "hidd",
+        "pid": 433
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "secinitd",
+        "pid": 438
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.audio.",
+        "pid": 439
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "authd",
+        "pid": 440
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "symptomsd",
+        "pid": 441
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "distnoted",
+        "pid": 442
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "distnoted",
+        "pid": 443
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "distnoted",
+        "pid": 445
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "biomed",
+        "pid": 446
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "syspolicyd",
+        "pid": 449
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "mDNSResponder",
+        "pid": 461
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.audio.",
+        "pid": 467
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.audio.",
+        "pid": 469
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "PlugInLibrarySer",
+        "pid": 474
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "audiomxd",
+        "pid": 479
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "audioclocksyncd",
+        "pid": 484
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "cloudd",
+        "pid": 499
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "mDNSResponderHel",
+        "pid": 509
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "socketfilterfw",
+        "pid": 510
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "sysextd",
+        "pid": 511
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "distnoted",
+        "pid": 512
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "cryptexd",
+        "pid": 513
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "storagekitd",
+        "pid": 514
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "modelmanagerd",
+        "pid": 515
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "WirelessRadioMan",
+        "pid": 516
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "audioanalyticsd",
+        "pid": 517
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "findmybeaconingd",
+        "pid": 518
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "AppleDeviceQuery",
+        "pid": 519
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.Driver",
+        "pid": 520
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.Driver",
+        "pid": 521
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.AppleU",
+        "pid": 522
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "mobileactivation",
+        "pid": 525
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "backupd",
+        "pid": 527
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.Mobile",
+        "pid": 529
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.CodeSi",
+        "pid": 530
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.cmio.v",
+        "pid": 531
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "cameracaptured",
+        "pid": 533
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "UVCAssistant",
+        "pid": 534
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "modelcatalogd",
+        "pid": 536
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "backgroundtaskma",
+        "pid": 537
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "appleh16camerad",
+        "pid": 538
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "distnoted",
+        "pid": 539
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.geod",
+        "pid": 540
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "distnoted",
+        "pid": 541
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "secinitd",
+        "pid": 542
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "cfprefsd",
+        "pid": 543
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "triald_system",
+        "pid": 544
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.geod",
+        "pid": 545
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "colorsync.displa",
+        "pid": 546
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "secinitd",
+        "pid": 547
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.ColorS",
+        "pid": 548
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "trustd",
+        "pid": 549
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "colorsyncd",
+        "pid": 550
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "cfprefsd",
+        "pid": 551
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "PerfPowerTelemet",
+        "pid": 552
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "containermanager",
+        "pid": 553
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "trustd",
+        "pid": 554
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "aneuserd",
+        "pid": 555
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "aned",
+        "pid": 556
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "online-auth-agen",
+        "pid": 557
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "appleeventsd",
+        "pid": 558
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "containermanager",
+        "pid": 559
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.docker.vmnet",
+        "pid": 561
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "searchpartyd",
+        "pid": 563
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "mds_stores",
+        "pid": 564
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "ViewBridgeAuxili",
+        "pid": 565
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "writeconfig",
+        "pid": 566
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "CloudTelemetrySe",
+        "pid": 567
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "bootinstalld",
+        "pid": 568
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "distnoted",
+        "pid": 569
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "symptomsd-diag",
+        "pid": 571
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "suhelperd",
+        "pid": 573
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "softwareupdated",
+        "pid": 574
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "CategoriesServic",
+        "pid": 575
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "osanalyticshelpe",
+        "pid": 576
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.hiserv",
+        "pid": 578
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "distnoted",
+        "pid": 580
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "rtcreportingd",
+        "pid": 581
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "GSSCred",
+        "pid": 584
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "ContextService",
+        "pid": 585
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "XProtectPluginSe",
+        "pid": 586
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.Mobile",
+        "pid": 588
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "distnoted",
+        "pid": 591
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "coreauthd",
+        "pid": 593
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "applekeystored",
+        "pid": 594
+    },
+    {
+        "memory_percent": 0.030040740966796875,
+        "cpu_percent": 0.0,
+        "name": "distnoted",
+        "pid": 595
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "corekdld",
+        "pid": 596
+    },
+    {
+        "memory_percent": 0.1506805419921875,
+        "cpu_percent": 0.0,
+        "name": "secd",
+        "pid": 597
+    },
+    {
+        "memory_percent": 0.044727325439453125,
+        "cpu_percent": 0.0,
+        "name": "cfprefsd",
+        "pid": 598
+    },
+    {
+        "memory_percent": 0.15363693237304688,
+        "cpu_percent": 0.0,
+        "name": "UserEventAgent",
+        "pid": 599
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "gamecontrollerd",
+        "pid": 600
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "seld",
+        "pid": 601
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "uarpd",
+        "pid": 602
+    },
+    {
+        "memory_percent": 0.33397674560546875,
+        "cpu_percent": 0.0,
+        "name": "accountsd",
+        "pid": 604
+    },
+    {
+        "memory_percent": 0.17986297607421875,
+        "cpu_percent": 0.0,
+        "name": "WindowManager",
+        "pid": 605
+    },
+    {
+        "memory_percent": 0.08211135864257812,
+        "cpu_percent": 0.0,
+        "name": "neagent",
+        "pid": 606
+    },
+    {
+        "memory_percent": 0.1720428466796875,
+        "cpu_percent": 0.0,
+        "name": "knowledge-agent",
+        "pid": 607
+    },
+    {
+        "memory_percent": 0.08945465087890625,
+        "cpu_percent": 0.0,
+        "name": "ContinuityCaptureAgent",
+        "pid": 608
+    },
+    {
+        "memory_percent": 0.2864837646484375,
+        "cpu_percent": 0.0,
+        "name": "CoreServicesUIAgent",
+        "pid": 609
+    },
+    {
+        "memory_percent": 0.11472702026367188,
+        "cpu_percent": 0.0,
+        "name": "universalaccessd",
+        "pid": 610
+    },
+    {
+        "memory_percent": 0.09479522705078125,
+        "cpu_percent": 0.0,
+        "name": "com.apple.sbd",
+        "pid": 611
+    },
+    {
+        "memory_percent": 0.06761550903320312,
+        "cpu_percent": 0.0,
+        "name": "pboard",
+        "pid": 612
+    },
+    {
+        "memory_percent": 0.047397613525390625,
+        "cpu_percent": 0.0,
+        "name": "containermanagerd",
+        "pid": 613
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "findmydeviced",
+        "pid": 614
+    },
+    {
+        "memory_percent": 0.10404586791992188,
+        "cpu_percent": 0.0,
+        "name": "BiomeAgent",
+        "pid": 615
+    },
+    {
+        "memory_percent": 0.1194000244140625,
+        "cpu_percent": 0.0,
+        "name": "lsd",
+        "pid": 616
+    },
+    {
+        "memory_percent": 0.41065216064453125,
+        "cpu_percent": 0.0,
+        "name": "AXVisualSupportAgent",
+        "pid": 617
+    },
+    {
+        "memory_percent": 0.2025604248046875,
+        "cpu_percent": 0.0,
+        "name": "linkd",
+        "pid": 618
+    },
+    {
+        "memory_percent": 0.0583648681640625,
+        "cpu_percent": 0.0,
+        "name": "cdpd",
+        "pid": 619
+    },
+    {
+        "memory_percent": 0.07152557373046875,
+        "cpu_percent": 0.0,
+        "name": "TrustedPeersHelper",
+        "pid": 620
+    },
+    {
+        "memory_percent": 0.10242462158203125,
+        "cpu_percent": 0.0,
+        "name": "tccd",
+        "pid": 621
+    },
+    {
+        "memory_percent": 0.3066062927246094,
+        "cpu_percent": 0.0,
+        "name": "AccessibilityVisualsAgent",
+        "pid": 622
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "wifip2pd",
+        "pid": 623
+    },
+    {
+        "memory_percent": 0.1720428466796875,
+        "cpu_percent": 0.0,
+        "name": "cloudd",
+        "pid": 624
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "distnoted",
+        "pid": 625
+    },
+    {
+        "memory_percent": 0.02727508544921875,
+        "cpu_percent": 0.0,
+        "name": "com.apple.hiservices-xpcservice",
+        "pid": 626
+    },
+    {
+        "memory_percent": 0.019168853759765625,
+        "cpu_percent": 0.0,
+        "name": "APFSUserAgent",
+        "pid": 627
+    },
+    {
+        "memory_percent": 0.05550384521484375,
+        "cpu_percent": 0.0,
+        "name": "findmydevice-user-agent",
+        "pid": 628
+    },
+    {
+        "memory_percent": 0.1232147216796875,
+        "cpu_percent": 0.0,
+        "name": "talagentd",
+        "pid": 629
+    },
+    {
+        "memory_percent": 0.11911392211914062,
+        "cpu_percent": 0.0,
+        "name": "sharedfilelistd",
+        "pid": 630
+    },
+    {
+        "memory_percent": 0.11806488037109375,
+        "cpu_percent": 0.0,
+        "name": "nsurlsessiond",
+        "pid": 632
+    },
+    {
+        "memory_percent": 0.07925033569335938,
+        "cpu_percent": 0.0,
+        "name": "fontd",
+        "pid": 633
+    },
+    {
+        "memory_percent": 0.12769699096679688,
+        "cpu_percent": 0.0,
+        "name": "CommCenter",
+        "pid": 634
+    },
+    {
+        "memory_percent": 0.14371871948242188,
+        "cpu_percent": 0.0,
+        "name": "ContextStoreAgent",
+        "pid": 635
+    },
+    {
+        "memory_percent": 0.17175674438476562,
+        "cpu_percent": 0.0,
+        "name": "rapportd",
+        "pid": 636
+    },
+    {
+        "memory_percent": 0.17604827880859375,
+        "cpu_percent": 0.0,
+        "name": "usernoted",
+        "pid": 637
+    },
+    {
+        "memory_percent": 0.19369125366210938,
+        "cpu_percent": 0.0,
+        "name": "routined",
+        "pid": 638
+    },
+    {
+        "memory_percent": 0.0904083251953125,
+        "cpu_percent": 0.0,
+        "name": "trustd",
+        "pid": 639
+    },
+    {
+        "memory_percent": 0.07028579711914062,
+        "cpu_percent": 0.0,
+        "name": "secinitd",
+        "pid": 640
+    },
+    {
+        "memory_percent": 0.040149688720703125,
+        "cpu_percent": 0.0,
+        "name": "lockoutagent",
+        "pid": 641
+    },
+    {
+        "memory_percent": 0.07991790771484375,
+        "cpu_percent": 0.0,
+        "name": "fontworker",
+        "pid": 642
+    },
+    {
+        "memory_percent": 0.09937286376953125,
+        "cpu_percent": 0.0,
+        "name": "usernotificationsd",
+        "pid": 643
+    },
+    {
+        "memory_percent": 0.06761550903320312,
+        "cpu_percent": 0.0,
+        "name": "dmd",
+        "pid": 645
+    },
+    {
+        "memory_percent": 0.2758026123046875,
+        "cpu_percent": 0.0,
+        "name": "CoreLocationAgent",
+        "pid": 646
+    },
+    {
+        "memory_percent": 0.12254714965820312,
+        "cpu_percent": 0.0,
+        "name": "ScreenTimeAgent",
+        "pid": 647
+    },
+    {
+        "memory_percent": 0.2567291259765625,
+        "cpu_percent": 0.0,
+        "name": "callservicesd",
+        "pid": 648
+    },
+    {
+        "memory_percent": 0.14591217041015625,
+        "cpu_percent": 0.0,
+        "name": "syncdefaultsd",
+        "pid": 649
+    },
+    {
+        "memory_percent": 0.2643585205078125,
+        "cpu_percent": 0.0,
+        "name": "identityservicesd",
+        "pid": 650
+    },
+    {
+        "memory_percent": 0.037384033203125,
+        "cpu_percent": 0.0,
+        "name": "assessmentagent",
+        "pid": 651
+    },
+    {
+        "memory_percent": 0.15354156494140625,
+        "cpu_percent": 0.0,
+        "name": "studentd",
+        "pid": 652
+    },
+    {
+        "memory_percent": 0.8393287658691406,
+        "cpu_percent": 0.0,
+        "name": "corespotlightd",
+        "pid": 653
+    },
+    {
+        "memory_percent": 0.16279220581054688,
+        "cpu_percent": 0.0,
+        "name": "transparencyd",
+        "pid": 654
+    },
+    {
+        "memory_percent": 0.06008148193359375,
+        "cpu_percent": 0.0,
+        "name": "ctkd",
+        "pid": 655
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "ctkd",
+        "pid": 656
+    },
+    {
+        "memory_percent": 0.06694793701171875,
+        "cpu_percent": 0.0,
+        "name": "coreauthd",
+        "pid": 657
+    },
+    {
+        "memory_percent": 0.11281967163085938,
+        "cpu_percent": 0.0,
+        "name": "pkd",
+        "pid": 658
+    },
+    {
+        "memory_percent": 0.38356781005859375,
+        "cpu_percent": 0.0,
+        "name": "sharingd",
+        "pid": 659
+    },
+    {
+        "memory_percent": 0.14867782592773438,
+        "cpu_percent": 0.0,
+        "name": "donotdisturbd",
+        "pid": 660
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "WiFiCloudAssetsX",
+        "pid": 661
+    },
+    {
+        "memory_percent": 2.71759033203125,
+        "cpu_percent": 0.0,
+        "name": "Google Chrome",
+        "pid": 662
+    },
+    {
+        "memory_percent": 0.16450881958007812,
+        "cpu_percent": 0.0,
+        "name": "com.apple.geod",
+        "pid": 663
+    },
+    {
+        "memory_percent": 0.0316619873046875,
+        "cpu_percent": 0.0,
+        "name": "ManagedSettingsAgent",
+        "pid": 664
+    },
+    {
+        "memory_percent": 0.199127197265625,
+        "cpu_percent": 0.0,
+        "name": "fileproviderd",
+        "pid": 666
+    },
+    {
+        "memory_percent": 0.11339187622070312,
+        "cpu_percent": 0.0,
+        "name": "replicatord",
+        "pid": 667
+    },
+    {
+        "memory_percent": 0.13971328735351562,
+        "cpu_percent": 0.0,
+        "name": "spotlightknowledged.updater",
+        "pid": 668
+    },
+    {
+        "memory_percent": 0.4741668701171875,
+        "cpu_percent": 0.0,
+        "name": "Dock",
+        "pid": 669
+    },
+    {
+        "memory_percent": 0.024890899658203125,
+        "cpu_percent": 0.0,
+        "name": "FamilyControlsAgent",
+        "pid": 670
+    },
+    {
+        "memory_percent": 0.19054412841796875,
+        "cpu_percent": 0.0,
+        "name": "imagent",
+        "pid": 671
+    },
+    {
+        "memory_percent": 0.6101608276367188,
+        "cpu_percent": 0.0,
+        "name": "ControlCenter",
+        "pid": 672
+    },
+    {
+        "memory_percent": 0.25615692138671875,
+        "cpu_percent": 0.0,
+        "name": "SystemUIServer",
+        "pid": 673
+    },
+    {
+        "memory_percent": 0.7418632507324219,
+        "cpu_percent": 0.0,
+        "name": "Finder",
+        "pid": 674
+    },
+    {
+        "memory_percent": 0.07686614990234375,
+        "cpu_percent": 0.0,
+        "name": "deleted",
+        "pid": 676
+    },
+    {
+        "memory_percent": 0.3386497497558594,
+        "cpu_percent": 0.0,
+        "name": "AccessibilityUIServer",
+        "pid": 678
+    },
+    {
+        "memory_percent": 0.011348724365234375,
+        "cpu_percent": 0.0,
+        "name": "csnameddatad",
+        "pid": 679
+    },
+    {
+        "memory_percent": 0.17900466918945312,
+        "cpu_percent": 0.0,
+        "name": "com.apple.quicklook.ThumbnailsAgent",
+        "pid": 680
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "systemsoundserve",
+        "pid": 681
+    },
+    {
+        "memory_percent": 0.11816024780273438,
+        "cpu_percent": 0.0,
+        "name": "QuickLookUIService",
+        "pid": 682
+    },
+    {
+        "memory_percent": 0.2132415771484375,
+        "cpu_percent": 0.0,
+        "name": "WallpaperAgent",
+        "pid": 683
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "filecoordination",
+        "pid": 684
+    },
+    {
+        "memory_percent": 0.4065513610839844,
+        "cpu_percent": 0.0,
+        "name": "siriactionsd",
+        "pid": 685
+    },
+    {
+        "memory_percent": 0.09126663208007812,
+        "cpu_percent": 0.0,
+        "name": "ViewBridgeAuxiliary",
+        "pid": 686
+    },
+    {
+        "memory_percent": 0.052356719970703125,
+        "cpu_percent": 0.0,
+        "name": "sociallayerd",
+        "pid": 687
+    },
+    {
+        "memory_percent": 0.20475387573242188,
+        "cpu_percent": 0.0,
+        "name": "suggestd",
+        "pid": 688
+    },
+    {
+        "memory_percent": 0.0911712646484375,
+        "cpu_percent": 0.0,
+        "name": "bird",
+        "pid": 689
+    },
+    {
+        "memory_percent": 0.14591217041015625,
+        "cpu_percent": 0.0,
+        "name": "calaccessd",
+        "pid": 690
+    },
+    {
+        "memory_percent": 0.3479957580566406,
+        "cpu_percent": 0.0,
+        "name": "iconservicesagent",
+        "pid": 691
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "automountd",
+        "pid": 692
+    },
+    {
+        "memory_percent": 0.07152557373046875,
+        "cpu_percent": 0.0,
+        "name": "intelligentroutingd",
+        "pid": 693
+    },
+    {
+        "memory_percent": 0.18100738525390625,
+        "cpu_percent": 0.0,
+        "name": "audioaccessoryd",
+        "pid": 694
+    },
+    {
+        "memory_percent": 0.058650970458984375,
+        "cpu_percent": 0.0,
+        "name": "AMPDeviceDiscoveryAgent",
+        "pid": 695
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "wallpaperexportd",
+        "pid": 696
+    },
+    {
+        "memory_percent": 0.08134841918945312,
+        "cpu_percent": 0.0,
+        "name": "extensionkitservice",
+        "pid": 697
+    },
+    {
+        "memory_percent": 0.0606536865234375,
+        "cpu_percent": 0.0,
+        "name": "mobiletimerd",
+        "pid": 698
+    },
+    {
+        "memory_percent": 0.11348724365234375,
+        "cpu_percent": 0.0,
+        "name": "replayd",
+        "pid": 699
+    },
+    {
+        "memory_percent": 0.06198883056640625,
+        "cpu_percent": 0.0,
+        "name": "AudioComponentRegistrar",
+        "pid": 700
+    },
+    {
+        "memory_percent": 0.2652168273925781,
+        "cpu_percent": 0.0,
+        "name": "chronod",
+        "pid": 701
+    },
+    {
+        "memory_percent": 0.17271041870117188,
+        "cpu_percent": 0.0,
+        "name": "WallpaperAerialsExtension",
+        "pid": 702
+    },
+    {
+        "memory_percent": 0.3932952880859375,
+        "cpu_percent": 0.0,
+        "name": "WallpaperImageExtension",
+        "pid": 704
+    },
+    {
+        "memory_percent": 0.011730194091796875,
+        "cpu_percent": 0.0,
+        "name": "LoginUserService",
+        "pid": 705
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "oahd",
+        "pid": 708
+    },
+    {
+        "memory_percent": 0.08573532104492188,
+        "cpu_percent": 0.0,
+        "name": "communicationtrustd",
+        "pid": 709
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "ecosystemanalyti",
+        "pid": 711
+    },
+    {
+        "memory_percent": 0.053310394287109375,
+        "cpu_percent": 0.0,
+        "name": "chrome_crashpad_handler",
+        "pid": 712
+    },
+    {
+        "memory_percent": 0.262451171875,
+        "cpu_percent": 0.0,
+        "name": "WiFiAgent",
+        "pid": 713
+    },
+    {
+        "memory_percent": 0.057888031005859375,
+        "cpu_percent": 0.0,
+        "name": "localizationswitcherd",
+        "pid": 714
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "deviceinterfaced",
+        "pid": 715
+    },
+    {
+        "memory_percent": 0.0438690185546875,
+        "cpu_percent": 0.0,
+        "name": "CMFSyncAgent",
+        "pid": 716
+    },
+    {
+        "memory_percent": 0.13608932495117188,
+        "cpu_percent": 0.0,
+        "name": "UIKitSystem",
+        "pid": 717
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "nearbyd",
+        "pid": 718
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "gamepolicyd",
+        "pid": 719
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "kernelmanager_he",
+        "pid": 720
+    },
+    {
+        "memory_percent": 0.66070556640625,
+        "cpu_percent": 0.0,
+        "name": "NotificationCenter",
+        "pid": 721
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "tailspind",
+        "pid": 722
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "ospredictiond",
+        "pid": 723
+    },
+    {
+        "memory_percent": 0.11053085327148438,
+        "cpu_percent": 0.0,
+        "name": "IMDPersistenceAgent",
+        "pid": 724
+    },
+    {
+        "memory_percent": 0.16012191772460938,
+        "cpu_percent": 0.0,
+        "name": "familycircled",
+        "pid": 725
+    },
+    {
+        "memory_percent": 0.08945465087890625,
+        "cpu_percent": 0.0,
+        "name": "StatusKitAgent",
+        "pid": 726
+    },
+    {
+        "memory_percent": 0.10633468627929688,
+        "cpu_percent": 0.0,
+        "name": "findmylocateagent",
+        "pid": 727
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "deleted_helper",
+        "pid": 728
+    },
+    {
+        "memory_percent": 0.31299591064453125,
+        "cpu_percent": 0.0,
+        "name": "akd",
+        "pid": 730
+    },
+    {
+        "memory_percent": 0.067901611328125,
+        "cpu_percent": 0.0,
+        "name": "liveactivitiesd",
+        "pid": 731
+    },
+    {
+        "memory_percent": 0.0579833984375,
+        "cpu_percent": 0.0,
+        "name": "ContainerMetadataExtractor",
+        "pid": 732
+    },
+    {
+        "memory_percent": 0.09851455688476562,
+        "cpu_percent": 0.0,
+        "name": "appleaccountd",
+        "pid": 733
+    },
+    {
+        "memory_percent": 0.011539459228515625,
+        "cpu_percent": 0.0,
+        "name": "PlugInLibraryService",
+        "pid": 734
+    },
+    {
+        "memory_percent": 0.058841705322265625,
+        "cpu_percent": 0.0,
+        "name": "frauddefensed",
+        "pid": 735
+    },
+    {
+        "memory_percent": 0.07867813110351562,
+        "cpu_percent": 0.0,
+        "name": "useractivityd",
+        "pid": 736
+    },
+    {
+        "memory_percent": 0.4384040832519531,
+        "cpu_percent": 0.0,
+        "name": "com.apple.dock.extra",
+        "pid": 737
+    },
+    {
+        "memory_percent": 0.0446319580078125,
+        "cpu_percent": 0.0,
+        "name": "com.apple.FaceTime.FTConversationService",
+        "pid": 738
+    },
+    {
+        "memory_percent": 0.954437255859375,
+        "cpu_percent": 0.0,
+        "name": "Google Chrome Helper",
+        "pid": 739
+    },
+    {
+        "memory_percent": 0.8165359497070312,
+        "cpu_percent": 0.0,
+        "name": "Google Chrome Helper",
+        "pid": 741
+    },
+    {
+        "memory_percent": 0.02288818359375,
+        "cpu_percent": 0.0,
+        "name": "ReportCrash",
+        "pid": 742
+    },
+    {
+        "memory_percent": 0.08344650268554688,
+        "cpu_percent": 0.0,
+        "name": "sirittsd",
+        "pid": 743
+    },
+    {
+        "memory_percent": 0.038909912109375,
+        "cpu_percent": 0.0,
+        "name": "localspeechrecognition",
+        "pid": 744
+    },
+    {
+        "memory_percent": 0.06999969482421875,
+        "cpu_percent": 0.0,
+        "name": "translationd",
+        "pid": 745
+    },
+    {
+        "memory_percent": 0.252532958984375,
+        "cpu_percent": 0.0,
+        "name": "AppSSOAgent",
+        "pid": 746
+    },
+    {
+        "memory_percent": 0.04367828369140625,
+        "cpu_percent": 0.0,
+        "name": "extensionkitservice",
+        "pid": 747
+    },
+    {
+        "memory_percent": 0.045013427734375,
+        "cpu_percent": 0.0,
+        "name": "followupd",
+        "pid": 748
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "AppSSODaemon",
+        "pid": 749
+    },
+    {
+        "memory_percent": 0.07352828979492188,
+        "cpu_percent": 0.0,
+        "name": "com.apple.CloudDocs.iCloudDriveFileProvider",
+        "pid": 750
+    },
+    {
+        "memory_percent": 0.4191398620605469,
+        "cpu_percent": 0.0,
+        "name": "Google Chrome Helper",
+        "pid": 751
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "adid",
+        "pid": 752
+    },
+    {
+        "memory_percent": 0.01983642578125,
+        "cpu_percent": 0.0,
+        "name": "CSExattrCryptoService",
+        "pid": 753
+    },
+    {
+        "memory_percent": 0.03910064697265625,
+        "cpu_percent": 0.0,
+        "name": "pbs",
+        "pid": 755
+    },
+    {
+        "memory_percent": 1.2109756469726562,
+        "cpu_percent": 0.0,
+        "name": "Spotlight",
+        "pid": 756
+    },
+    {
+        "memory_percent": 0.054073333740234375,
+        "cpu_percent": 0.0,
+        "name": "imklaunchagent",
+        "pid": 757
+    },
+    {
+        "memory_percent": 0.19617080688476562,
+        "cpu_percent": 0.0,
+        "name": "CursorUIViewService",
+        "pid": 759
+    },
+    {
+        "memory_percent": 0.13341903686523438,
+        "cpu_percent": 0.0,
+        "name": "PAH_Extension",
+        "pid": 760
+    },
+    {
+        "memory_percent": 0.091552734375,
+        "cpu_percent": 0.0,
+        "name": "extensionkitservice",
+        "pid": 761
+    },
+    {
+        "memory_percent": 0.2620697021484375,
+        "cpu_percent": 0.0,
+        "name": "WeatherWidget",
+        "pid": 762
+    },
+    {
+        "memory_percent": 0.31185150146484375,
+        "cpu_percent": 0.0,
+        "name": "StocksWidget",
+        "pid": 764
+    },
+    {
+        "memory_percent": 0.4382133483886719,
+        "cpu_percent": 0.0,
+        "name": "duetexpertd",
+        "pid": 765
+    },
+    {
+        "memory_percent": 0.2643585205078125,
+        "cpu_percent": 0.0,
+        "name": "ScreenTimeWidgetExtension",
+        "pid": 766
+    },
+    {
+        "memory_percent": 0.07648468017578125,
+        "cpu_percent": 0.0,
+        "name": "CloudTelemetryService",
+        "pid": 767
+    },
+    {
+        "memory_percent": 0.1186370849609375,
+        "cpu_percent": 0.0,
+        "name": "parsecd",
+        "pid": 768
+    },
+    {
+        "memory_percent": 0.2663612365722656,
+        "cpu_percent": 0.0,
+        "name": "homed",
+        "pid": 769
+    },
+    {
+        "memory_percent": 0.2338409423828125,
+        "cpu_percent": 0.0,
+        "name": "networkserviceproxy",
+        "pid": 770
+    },
+    {
+        "memory_percent": 0.11997222900390625,
+        "cpu_percent": 0.0,
+        "name": "itunescloudd",
+        "pid": 771
+    },
+    {
+        "memory_percent": 0.08974075317382812,
+        "cpu_percent": 0.0,
+        "name": "triald",
+        "pid": 772
+    },
+    {
+        "memory_percent": 0.02155303955078125,
+        "cpu_percent": 0.0,
+        "name": "mediaremoteagent",
+        "pid": 774
+    },
+    {
+        "memory_percent": 0.09202957153320312,
+        "cpu_percent": 0.0,
+        "name": "avconferenced",
+        "pid": 775
+    },
+    {
+        "memory_percent": 0.23069381713867188,
+        "cpu_percent": 0.0,
+        "name": "CalendarWidgetExtension",
+        "pid": 776
+    },
+    {
+        "memory_percent": 0.018787384033203125,
+        "cpu_percent": 0.0,
+        "name": "AudioConverterHardenedService",
+        "pid": 777
+    },
+    {
+        "memory_percent": 0.018787384033203125,
+        "cpu_percent": 0.0,
+        "name": "AudioConverterService",
+        "pid": 778
+    },
+    {
+        "memory_percent": 0.16880035400390625,
+        "cpu_percent": 0.0,
+        "name": "amsaccountsd",
+        "pid": 779
+    },
+    {
+        "memory_percent": 0.14696121215820312,
+        "cpu_percent": 0.0,
+        "name": "WorldClockWidget",
+        "pid": 780
+    },
+    {
+        "memory_percent": 0.14657974243164062,
+        "cpu_percent": 0.0,
+        "name": "mediaanalysisd",
+        "pid": 781
+    },
+    {
+        "memory_percent": 0.0179290771484375,
+        "cpu_percent": 0.0,
+        "name": "colorsync.useragent",
+        "pid": 782
+    },
+    {
+        "memory_percent": 0.06704330444335938,
+        "cpu_percent": 0.0,
+        "name": "maild",
+        "pid": 783
+    },
+    {
+        "memory_percent": 0.08678436279296875,
+        "cpu_percent": 0.0,
+        "name": "assistant_cdmd",
+        "pid": 785
+    },
+    {
+        "memory_percent": 0.098419189453125,
+        "cpu_percent": 0.0,
+        "name": "photolibraryd",
+        "pid": 786
+    },
+    {
+        "memory_percent": 0.035858154296875,
+        "cpu_percent": 0.0,
+        "name": "mobilerepaird",
+        "pid": 787
+    },
+    {
+        "memory_percent": 0.037479400634765625,
+        "cpu_percent": 0.0,
+        "name": "lockdownmoded",
+        "pid": 788
+    },
+    {
+        "memory_percent": 0.047016143798828125,
+        "cpu_percent": 0.0,
+        "name": "com.apple.audio.SandboxHelper",
+        "pid": 791
+    },
+    {
+        "memory_percent": 0.047016143798828125,
+        "cpu_percent": 0.0,
+        "name": "com.apple.audio.SandboxHelper",
+        "pid": 793
+    },
+    {
+        "memory_percent": 0.047016143798828125,
+        "cpu_percent": 0.0,
+        "name": "com.apple.audio.SandboxHelper",
+        "pid": 794
+    },
+    {
+        "memory_percent": 0.08068084716796875,
+        "cpu_percent": 0.0,
+        "name": "ScopedBookmarkAgent",
+        "pid": 795
+    },
+    {
+        "memory_percent": 0.01506805419921875,
+        "cpu_percent": 0.0,
+        "name": "WiFiCloudAssetsXPCService",
+        "pid": 796
+    },
+    {
+        "memory_percent": 0.011539459228515625,
+        "cpu_percent": 0.0,
+        "name": "PlugInLibraryService",
+        "pid": 797
+    },
+    {
+        "memory_percent": 0.11653900146484375,
+        "cpu_percent": 0.0,
+        "name": "generativeexperiencesd",
+        "pid": 798
+    },
+    {
+        "memory_percent": 0.09441375732421875,
+        "cpu_percent": 0.0,
+        "name": "iCloudNotificationAgent",
+        "pid": 799
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "spindump",
+        "pid": 800
+    },
+    {
+        "memory_percent": 0.170135498046875,
+        "cpu_percent": 0.0,
+        "name": "amsengagementd",
+        "pid": 801
+    },
+    {
+        "memory_percent": 0.020885467529296875,
+        "cpu_percent": 0.0,
+        "name": "spindump_agent",
+        "pid": 802
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "SubmitDiagInfo",
+        "pid": 803
+    },
+    {
+        "memory_percent": 0.038814544677734375,
+        "cpu_percent": 0.0,
+        "name": "photoanalysisd",
+        "pid": 805
+    },
+    {
+        "memory_percent": 0.0629425048828125,
+        "cpu_percent": 0.0,
+        "name": "ContextService",
+        "pid": 806
+    },
+    {
+        "memory_percent": 0.08325576782226562,
+        "cpu_percent": 0.0,
+        "name": "swtransparencyd",
+        "pid": 807
+    },
+    {
+        "memory_percent": 0.2124786376953125,
+        "cpu_percent": 0.0,
+        "name": "heard",
+        "pid": 808
+    },
+    {
+        "memory_percent": 0.1190185546875,
+        "cpu_percent": 0.0,
+        "name": "corespeechd",
+        "pid": 809
+    },
+    {
+        "memory_percent": 0.10013580322265625,
+        "cpu_percent": 0.0,
+        "name": "axassetsd",
+        "pid": 810
+    },
+    {
+        "memory_percent": 0.006389617919921875,
+        "cpu_percent": 0.0,
+        "name": "bash",
+        "pid": 814
+    },
+    {
+        "memory_percent": 0.034999847412109375,
+        "cpu_percent": 0.0,
+        "name": "icdd",
+        "pid": 815
+    },
+    {
+        "memory_percent": 0.04177093505859375,
+        "cpu_percent": 0.0,
+        "name": "appplaceholdersyncd",
+        "pid": 816
+    },
+    {
+        "memory_percent": 0.062465667724609375,
+        "cpu_percent": 0.0,
+        "name": "askpermissiond",
+        "pid": 817
+    },
+    {
+        "memory_percent": 0.11301040649414062,
+        "cpu_percent": 0.0,
+        "name": "AirPlayUIAgent",
+        "pid": 819
+    },
+    {
+        "memory_percent": 0.06685256958007812,
+        "cpu_percent": 0.0,
+        "name": "diagnostics_agent",
+        "pid": 821
+    },
+    {
+        "memory_percent": 0.3054618835449219,
+        "cpu_percent": 0.0,
+        "name": "TextInputMenuAgent",
+        "pid": 822
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "ctkahp",
+        "pid": 825
+    },
+    {
+        "memory_percent": 0.05931854248046875,
+        "cpu_percent": 0.0,
+        "name": "AssetCacheLocatorService",
+        "pid": 826
+    },
+    {
+        "memory_percent": 0.09517669677734375,
+        "cpu_percent": 0.0,
+        "name": "cloudphotod",
+        "pid": 827
+    },
+    {
+        "memory_percent": 0.2353668212890625,
+        "cpu_percent": 0.0,
+        "name": "SoftwareUpdateNotificationManager",
+        "pid": 828
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "FindMyMacd",
+        "pid": 829
+    },
+    {
+        "memory_percent": 0.03261566162109375,
+        "cpu_percent": 0.0,
+        "name": "SafariLaunchAgent",
+        "pid": 830
+    },
+    {
+        "memory_percent": 0.18701553344726562,
+        "cpu_percent": 0.0,
+        "name": "MTLCompilerService",
+        "pid": 831
+    },
+    {
+        "memory_percent": 0.24652481079101562,
+        "cpu_percent": 0.0,
+        "name": "MTLCompilerService",
+        "pid": 832
+    },
+    {
+        "memory_percent": 0.18091201782226562,
+        "cpu_percent": 0.0,
+        "name": "TextInputSwitcher",
+        "pid": 833
+    },
+    {
+        "memory_percent": 0.058746337890625,
+        "cpu_percent": 0.0,
+        "name": "ctkahp",
+        "pid": 834
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "AssetCache",
+        "pid": 836
+    },
+    {
+        "memory_percent": 0.041103363037109375,
+        "cpu_percent": 0.0,
+        "name": "localspeechrecognition",
+        "pid": 838
+    },
+    {
+        "memory_percent": 0.06284713745117188,
+        "cpu_percent": 0.0,
+        "name": "recentsd",
+        "pid": 840
+    },
+    {
+        "memory_percent": 0.11472702026367188,
+        "cpu_percent": 0.0,
+        "name": "FeatureAccessAgent",
+        "pid": 841
+    },
+    {
+        "memory_percent": 0.06456375122070312,
+        "cpu_percent": 0.0,
+        "name": "TrialArchivingService",
+        "pid": 846
+    },
+    {
+        "memory_percent": 0.1537322998046875,
+        "cpu_percent": 0.0,
+        "name": "BatteriesAvocadoWidgetExtension",
+        "pid": 847
+    },
+    {
+        "memory_percent": 0.07848739624023438,
+        "cpu_percent": 0.0,
+        "name": "bluetoothuserd",
+        "pid": 852
+    },
+    {
+        "memory_percent": 0.21915435791015625,
+        "cpu_percent": 0.0,
+        "name": "assistantd",
+        "pid": 853
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "wifianalyticsd",
+        "pid": 854
+    },
+    {
+        "memory_percent": 0.06809234619140625,
+        "cpu_percent": 0.0,
+        "name": "financed",
+        "pid": 855
+    },
+    {
+        "memory_percent": 0.15974044799804688,
+        "cpu_percent": 0.0,
+        "name": "siriknowledged",
+        "pid": 856
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "coresymbolicatio",
+        "pid": 865
+    },
+    {
+        "memory_percent": 0.0698089599609375,
+        "cpu_percent": 0.0,
+        "name": "milod",
+        "pid": 866
+    },
+    {
+        "memory_percent": 0.12445449829101562,
+        "cpu_percent": 0.0,
+        "name": "postersyncd",
+        "pid": 869
+    },
+    {
+        "memory_percent": 0.0408172607421875,
+        "cpu_percent": 0.0,
+        "name": "localspeechrecognition",
+        "pid": 870
+    },
+    {
+        "memory_percent": 0.02460479736328125,
+        "cpu_percent": 0.0,
+        "name": "CategoriesService",
+        "pid": 886
+    },
+    {
+        "memory_percent": 0.047016143798828125,
+        "cpu_percent": 0.0,
+        "name": "com.apple.audio.SandboxHelper",
+        "pid": 896
+    },
+    {
+        "memory_percent": 0.022125244140625,
+        "cpu_percent": 0.0,
+        "name": "CoreThreadCommissionerServiced",
+        "pid": 900
+    },
+    {
+        "memory_percent": 0.2471923828125,
+        "cpu_percent": 0.0,
+        "name": "appstoreagent",
+        "pid": 913
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "system_installd",
+        "pid": 914
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "AssetCacheTether",
+        "pid": 915
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "installd",
+        "pid": 916
+    },
+    {
+        "memory_percent": 0.015544891357421875,
+        "cpu_percent": 0.0,
+        "name": "geodMachServiceBridge",
+        "pid": 917
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "installcoordinat",
+        "pid": 926
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.Mobile",
+        "pid": 929
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "distnoted",
+        "pid": 930
+    },
+    {
+        "memory_percent": 0.128173828125,
+        "cpu_percent": 0.0,
+        "name": "swcd",
+        "pid": 931
+    },
+    {
+        "memory_percent": 0.08554458618164062,
+        "cpu_percent": 0.0,
+        "name": "amsondevicestoraged",
+        "pid": 932
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.AppSto",
+        "pid": 933
+    },
+    {
+        "memory_percent": 0.02079010009765625,
+        "cpu_percent": 0.0,
+        "name": "MTLAssetUpgraderD",
+        "pid": 934
+    },
+    {
+        "memory_percent": 0.02231597900390625,
+        "cpu_percent": 0.0,
+        "name": "MENotificationAgent",
+        "pid": 935
+    },
+    {
+        "memory_percent": 0.1140594482421875,
+        "cpu_percent": 0.0,
+        "name": "BackgroundTaskManagementAgent",
+        "pid": 936
+    },
+    {
+        "memory_percent": 0.043773651123046875,
+        "cpu_percent": 0.0,
+        "name": "ProtectedCloudKeySyncing",
+        "pid": 943
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "fairplayd",
+        "pid": 946
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "distnoted",
+        "pid": 959
+    },
+    {
+        "memory_percent": 0.0797271728515625,
+        "cpu_percent": 0.0,
+        "name": "CloudTelemetryService",
+        "pid": 972
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "UARPAssetManager",
+        "pid": 983
+    },
+    {
+        "memory_percent": 0.17290115356445312,
+        "cpu_percent": 0.0,
+        "name": "mysqld",
+        "pid": 986
+    },
+    {
+        "memory_percent": 0.052642822265625,
+        "cpu_percent": 0.0,
+        "name": "SetStoreUpdateService",
+        "pid": 987
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "UARPUpdaterServi",
+        "pid": 988
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "UARPUpdaterServi",
+        "pid": 989
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "UARPUpdaterServi",
+        "pid": 990
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "UARPUpdaterServi",
+        "pid": 991
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "UARPUpdaterServi",
+        "pid": 992
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "ThunderboltAcces",
+        "pid": 993
+    },
+    {
+        "memory_percent": 0.07152557373046875,
+        "cpu_percent": 0.0,
+        "name": "commerce",
+        "pid": 994
+    },
+    {
+        "memory_percent": 0.0579833984375,
+        "cpu_percent": 0.0,
+        "name": "SetStoreUpdateService",
+        "pid": 995
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.Ambien",
+        "pid": 996
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.ColorS",
+        "pid": 997
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "sysmond",
+        "pid": 998
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "FindMyDeviceShar",
+        "pid": 999
+    },
+    {
+        "memory_percent": 1.0649681091308594,
+        "cpu_percent": 0.0,
+        "name": "Google Chrome Helper (Renderer)",
+        "pid": 1003
+    },
+    {
+        "memory_percent": 0.07486343383789062,
+        "cpu_percent": 0.0,
+        "name": "voicebankingd",
+        "pid": 1006
+    },
+    {
+        "memory_percent": 0.047016143798828125,
+        "cpu_percent": 0.0,
+        "name": "com.apple.audio.SandboxHelper",
+        "pid": 1007
+    },
+    {
+        "memory_percent": 0.06046295166015625,
+        "cpu_percent": 0.0,
+        "name": "MauiAUSP",
+        "pid": 1008
+    },
+    {
+        "memory_percent": 0.15773773193359375,
+        "cpu_percent": 0.0,
+        "name": "MacinTalkAUSP",
+        "pid": 1009
+    },
+    {
+        "memory_percent": 0.16345977783203125,
+        "cpu_percent": 0.0,
+        "name": "KonaSynthesizer",
+        "pid": 1010
+    },
+    {
+        "memory_percent": 0.1537322998046875,
+        "cpu_percent": 0.0,
+        "name": "SiriAUSP",
+        "pid": 1011
+    },
+    {
+        "memory_percent": 0.21009445190429688,
+        "cpu_percent": 0.0,
+        "name": "com.apple.SafariPlatformSupport.Helper",
+        "pid": 1012
+    },
+    {
+        "memory_percent": 0.047016143798828125,
+        "cpu_percent": 0.0,
+        "name": "com.apple.audio.SandboxHelper",
+        "pid": 1013
+    },
+    {
+        "memory_percent": 0.01659393310546875,
+        "cpu_percent": 0.0,
+        "name": "AUCrashHandlerService",
+        "pid": 1016
+    },
+    {
+        "memory_percent": 0.11348724365234375,
+        "cpu_percent": 0.0,
+        "name": "WardaSynthesizer",
+        "pid": 1017
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "countryd",
+        "pid": 1018
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "AppleDeviceQuery",
+        "pid": 1020
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "nfcd",
+        "pid": 1023
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "distnoted",
+        "pid": 1024
+    },
+    {
+        "memory_percent": 0.046253204345703125,
+        "cpu_percent": 0.0,
+        "name": "gamecontrolleragentd",
+        "pid": 1025
+    },
+    {
+        "memory_percent": 0.034046173095703125,
+        "cpu_percent": 0.0,
+        "name": "inputanalyticsd",
+        "pid": 1026
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "assetsubscriptio",
+        "pid": 1027
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "CloudTelemetrySe",
+        "pid": 1028
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "XProtectBridgeSe",
+        "pid": 1029
+    },
+    {
+        "memory_percent": 0.04711151123046875,
+        "cpu_percent": 0.0,
+        "name": "com.apple.audio.SandboxHelper",
+        "pid": 1030
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "NFStorageServer",
+        "pid": 1031
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "distnoted",
+        "pid": 1032
+    },
+    {
+        "memory_percent": 0.047016143798828125,
+        "cpu_percent": 0.0,
+        "name": "com.apple.audio.SandboxHelper",
+        "pid": 1033
+    },
+    {
+        "memory_percent": 0.047016143798828125,
+        "cpu_percent": 0.0,
+        "name": "com.apple.audio.SandboxHelper",
+        "pid": 1034
+    },
+    {
+        "memory_percent": 0.146484375,
+        "cpu_percent": 0.0,
+        "name": "intelligencecontextd",
+        "pid": 1035
+    },
+    {
+        "memory_percent": 0.047016143798828125,
+        "cpu_percent": 0.0,
+        "name": "com.apple.audio.SandboxHelper",
+        "pid": 1036
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "IOUserBluetoothS",
+        "pid": 1037
+    },
+    {
+        "memory_percent": 0.047016143798828125,
+        "cpu_percent": 0.0,
+        "name": "com.apple.audio.SandboxHelper",
+        "pid": 1043
+    },
+    {
+        "memory_percent": 0.05645751953125,
+        "cpu_percent": 0.0,
+        "name": "analyticsagent",
+        "pid": 1044
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "akd",
+        "pid": 1046
+    },
+    {
+        "memory_percent": 0.0698089599609375,
+        "cpu_percent": 0.0,
+        "name": "StocksKitService",
+        "pid": 1047
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "systemstats",
+        "pid": 1048
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "distnoted",
+        "pid": 1049
+    },
+    {
+        "memory_percent": 0.10204315185546875,
+        "cpu_percent": 0.0,
+        "name": "mdbulkimport",
+        "pid": 1050
+    },
+    {
+        "memory_percent": 0.034236907958984375,
+        "cpu_percent": 0.0,
+        "name": "BTLEServerAgent",
+        "pid": 1051
+    },
+    {
+        "memory_percent": 0.20418167114257812,
+        "cpu_percent": 0.0,
+        "name": "AppPredictionIntentsHelperService",
+        "pid": 1052
+    },
+    {
+        "memory_percent": 0.115966796875,
+        "cpu_percent": 0.0,
+        "name": "IntelligencePlatformComputeService",
+        "pid": 1054
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "BTLEServer",
+        "pid": 1055
+    },
+    {
+        "memory_percent": 0.06570816040039062,
+        "cpu_percent": 0.0,
+        "name": "mapssyncd",
+        "pid": 1056
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "accessoryd",
+        "pid": 1057
+    },
+    {
+        "memory_percent": 0.1277923583984375,
+        "cpu_percent": 0.0,
+        "name": "UniversalControl",
+        "pid": 1058
+    },
+    {
+        "memory_percent": 0.037384033203125,
+        "cpu_percent": 0.0,
+        "name": "SidecarRelay",
+        "pid": 1059
+    },
+    {
+        "memory_percent": 0.01430511474609375,
+        "cpu_percent": 0.0,
+        "name": "SpeechSynthesisServerXPC",
+        "pid": 1060
+    },
+    {
+        "memory_percent": 0.017452239990234375,
+        "cpu_percent": 0.0,
+        "name": "com.apple.StreamingUnzipService",
+        "pid": 1061
+    },
+    {
+        "memory_percent": 0.054073333740234375,
+        "cpu_percent": 0.0,
+        "name": "diagnosticextensionsd",
+        "pid": 1062
+    },
+    {
+        "memory_percent": 0.11310577392578125,
+        "cpu_percent": 0.0,
+        "name": "UsageTrackingAgent",
+        "pid": 1063
+    },
+    {
+        "memory_percent": 0.22306442260742188,
+        "cpu_percent": 0.0,
+        "name": "siriinferenced",
+        "pid": 1064
+    },
+    {
+        "memory_percent": 0.09717941284179688,
+        "cpu_percent": 0.0,
+        "name": "IMTransferAgent",
+        "pid": 1065
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.geod",
+        "pid": 1066
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "containermanager",
+        "pid": 1067
+    },
+    {
+        "memory_percent": 0.09164810180664062,
+        "cpu_percent": 0.0,
+        "name": "ModelCatalogAgent",
+        "pid": 1068
+    },
+    {
+        "memory_percent": 0.0331878662109375,
+        "cpu_percent": 0.0,
+        "name": "XProtectPluginService",
+        "pid": 1069
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "ecosystemd",
+        "pid": 1070
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "MTLCompilerServi",
+        "pid": 1071
+    },
+    {
+        "memory_percent": 0.051212310791015625,
+        "cpu_percent": 0.0,
+        "name": "SiriSuggestionsBookkeepingService",
+        "pid": 1072
+    },
+    {
+        "memory_percent": 0.16937255859375,
+        "cpu_percent": 0.0,
+        "name": "GamePolicyAgent",
+        "pid": 1073
+    },
+    {
+        "memory_percent": 0.01163482666015625,
+        "cpu_percent": 0.0,
+        "name": "PlugInLibraryService",
+        "pid": 1074
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "CrashReporterSup",
+        "pid": 1075
+    },
+    {
+        "memory_percent": 0.15611648559570312,
+        "cpu_percent": 0.0,
+        "name": "ShortcutsViewService",
+        "pid": 1097
+    },
+    {
+        "memory_percent": 2.9036521911621094,
+        "cpu_percent": 0.0,
+        "name": "Google Chrome Helper (Renderer)",
+        "pid": 1099
+    },
+    {
+        "memory_percent": 0.061511993408203125,
+        "cpu_percent": 0.0,
+        "name": "contentlinkingd",
+        "pid": 1100
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "wifivelocityd",
+        "pid": 1102
+    },
+    {
+        "memory_percent": 0.06532669067382812,
+        "cpu_percent": 0.0,
+        "name": "jetpackassetd",
+        "pid": 1103
+    },
+    {
+        "memory_percent": 0.061893463134765625,
+        "cpu_percent": 0.0,
+        "name": "extensionkitservice",
+        "pid": 1104
+    },
+    {
+        "memory_percent": 0.06341934204101562,
+        "cpu_percent": 0.0,
+        "name": "CalendarIntentsExtension",
+        "pid": 1105
+    },
+    {
+        "memory_percent": 0.06103515625,
+        "cpu_percent": 0.0,
+        "name": "SafariLinkExtension",
+        "pid": 1106
+    },
+    {
+        "memory_percent": 0.07429122924804688,
+        "cpu_percent": 0.0,
+        "name": "MessagesActionExtension",
+        "pid": 1107
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "captiveagent",
+        "pid": 1110
+    },
+    {
+        "memory_percent": 0.02269744873046875,
+        "cpu_percent": 0.0,
+        "name": "MTLCompilerService",
+        "pid": 1117
+    },
+    {
+        "memory_percent": 0.022411346435546875,
+        "cpu_percent": 0.0,
+        "name": "MTLCompilerService",
+        "pid": 1118
+    },
+    {
+        "memory_percent": 0.10042190551757812,
+        "cpu_percent": 0.0,
+        "name": "promotedcontentd",
+        "pid": 1119
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "fairplaydeviceid",
+        "pid": 1121
+    },
+    {
+        "memory_percent": 0.08420944213867188,
+        "cpu_percent": 0.0,
+        "name": "SAExtensionOrchestrator",
+        "pid": 1122
+    },
+    {
+        "memory_percent": 0.06885528564453125,
+        "cpu_percent": 0.0,
+        "name": "extensionkitservice",
+        "pid": 1123
+    },
+    {
+        "memory_percent": 0.041294097900390625,
+        "cpu_percent": 0.0,
+        "name": "ndoagent",
+        "pid": 1124
+    },
+    {
+        "memory_percent": 0.055027008056640625,
+        "cpu_percent": 0.0,
+        "name": "IFTelemetrySELFIngestor",
+        "pid": 1125
+    },
+    {
+        "memory_percent": 0.0644683837890625,
+        "cpu_percent": 0.0,
+        "name": "GMSSELFIngestor",
+        "pid": 1126
+    },
+    {
+        "memory_percent": 0.059413909912109375,
+        "cpu_percent": 0.0,
+        "name": "IFTranscriptSELFIngestor",
+        "pid": 1127
+    },
+    {
+        "memory_percent": 0.0598907470703125,
+        "cpu_percent": 0.0,
+        "name": "BiomeSELFIngestor",
+        "pid": 1128
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.geod",
+        "pid": 1129
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "distnoted",
+        "pid": 1130
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "secinitd",
+        "pid": 1131
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "cfprefsd",
+        "pid": 1132
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "trustd",
+        "pid": 1133
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "AssetCacheLocato",
+        "pid": 1134
+    },
+    {
+        "memory_percent": 0.04138946533203125,
+        "cpu_percent": 0.0,
+        "name": "homeeventsd",
+        "pid": 1135
+    },
+    {
+        "memory_percent": 0.09098052978515625,
+        "cpu_percent": 0.0,
+        "name": "adprivacyd",
+        "pid": 1136
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "containermanager",
+        "pid": 1137
+    },
+    {
+        "memory_percent": 0.11911392211914062,
+        "cpu_percent": 0.0,
+        "name": "Keychain Circle Notification",
+        "pid": 1138
+    },
+    {
+        "memory_percent": 0.06103515625,
+        "cpu_percent": 0.0,
+        "name": "progressd",
+        "pid": 1141
+    },
+    {
+        "memory_percent": 0.058078765869140625,
+        "cpu_percent": 0.0,
+        "name": "VTEncoderXPCService",
+        "pid": 1144
+    },
+    {
+        "memory_percent": 0.017833709716796875,
+        "cpu_percent": 0.0,
+        "name": "PlugInLibraryService",
+        "pid": 1146
+    },
+    {
+        "memory_percent": 0.0820159912109375,
+        "cpu_percent": 0.0,
+        "name": "managedcorespotlightd",
+        "pid": 1147
+    },
+    {
+        "memory_percent": 0.08153915405273438,
+        "cpu_percent": 0.0,
+        "name": "weatherd",
+        "pid": 1150
+    },
+    {
+        "memory_percent": 0.212860107421875,
+        "cpu_percent": 0.0,
+        "name": "searchpartyuseragent",
+        "pid": 1151
+    },
+    {
+        "memory_percent": 0.1216888427734375,
+        "cpu_percent": 0.0,
+        "name": "storekitagent",
+        "pid": 1153
+    },
+    {
+        "memory_percent": 0.019741058349609375,
+        "cpu_percent": 0.0,
+        "name": "com.apple.DictionaryServiceHelper",
+        "pid": 1158
+    },
+    {
+        "memory_percent": 0.08640289306640625,
+        "cpu_percent": 0.0,
+        "name": "mdworker",
+        "pid": 2444
+    },
+    {
+        "memory_percent": 0.012969970703125,
+        "cpu_percent": 0.0,
+        "name": "fudHelperAgent",
+        "pid": 2460
+    },
+    {
+        "memory_percent": 0.014209747314453125,
+        "cpu_percent": 0.0,
+        "name": "PlugInLibraryService",
+        "pid": 2477
+    },
+    {
+        "memory_percent": 0.035381317138671875,
+        "cpu_percent": 0.0,
+        "name": "spotlightknowledged",
+        "pid": 2486
+    },
+    {
+        "memory_percent": 0.2094268798828125,
+        "cpu_percent": 0.0,
+        "name": "dataaccessd",
+        "pid": 2871
+    },
+    {
+        "memory_percent": 0.040912628173828125,
+        "cpu_percent": 0.0,
+        "name": "keychainsharingmessagingd",
+        "pid": 2872
+    },
+    {
+        "memory_percent": 0.16632080078125,
+        "cpu_percent": 0.0,
+        "name": "contactsd",
+        "pid": 2875
+    },
+    {
+        "memory_percent": 0.13437271118164062,
+        "cpu_percent": 0.0,
+        "name": "peopled",
+        "pid": 2876
+    },
+    {
+        "memory_percent": 0.0949859619140625,
+        "cpu_percent": 0.0,
+        "name": "proactived",
+        "pid": 2877
+    },
+    {
+        "memory_percent": 0.09164810180664062,
+        "cpu_percent": 0.0,
+        "name": "SafariBookmarksSyncAgent",
+        "pid": 2883
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "remotemanagement",
+        "pid": 2885
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "SecuritySubscrib",
+        "pid": 2886
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "distnoted",
+        "pid": 2887
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "InteractiveLegac",
+        "pid": 2888
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "ScreenSharingSub",
+        "pid": 2889
+    },
+    {
+        "memory_percent": 0.09403228759765625,
+        "cpu_percent": 0.0,
+        "name": "tipsd",
+        "pid": 2890
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "LegacyProfilesSu",
+        "pid": 2893
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "PasscodeSettings",
+        "pid": 2894
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "DiskManagementSu",
+        "pid": 2895
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "ManagedPreferenc",
+        "pid": 2896
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "SoftwareUpdateSu",
+        "pid": 2897
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "MigrationSubscri",
+        "pid": 2898
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "systemmigrationd",
+        "pid": 2899
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "iconservicesagen",
+        "pid": 2900
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "ManagedAppsSubsc",
+        "pid": 2901
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "managedappdistri",
+        "pid": 2902
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "ManagementTestSu",
+        "pid": 2903
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "ManagedConfigura",
+        "pid": 2904
+    },
+    {
+        "memory_percent": 0.012111663818359375,
+        "cpu_percent": 0.0,
+        "name": "PlugInLibraryService",
+        "pid": 2906
+    },
+    {
+        "memory_percent": 0.052165985107421875,
+        "cpu_percent": 0.0,
+        "name": "com.apple.Safari.SafeBrowsing.Service",
+        "pid": 2907
+    },
+    {
+        "memory_percent": 0.049686431884765625,
+        "cpu_percent": 0.0,
+        "name": "PasswordBreachAgent",
+        "pid": 2919
+    },
+    {
+        "memory_percent": 0.04119873046875,
+        "cpu_percent": 0.0,
+        "name": "feedbackd",
+        "pid": 2920
+    },
+    {
+        "memory_percent": 0.062465667724609375,
+        "cpu_percent": 0.0,
+        "name": "filevaultd",
+        "pid": 2921
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "seputil",
+        "pid": 2922
+    },
+    {
+        "memory_percent": 0.11949539184570312,
+        "cpu_percent": 0.0,
+        "name": "AuthenticationServicesAgent",
+        "pid": 2923
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "ASPCarryLog",
+        "pid": 2924
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "powerdatad",
+        "pid": 2927
+    },
+    {
+        "memory_percent": 0.16736984252929688,
+        "cpu_percent": 0.0,
+        "name": "coreautha",
+        "pid": 2961
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "mmaintenanced",
+        "pid": 2963
+    },
+    {
+        "memory_percent": 0.022220611572265625,
+        "cpu_percent": 0.0,
+        "name": "metrickitd",
+        "pid": 2964
+    },
+    {
+        "memory_percent": 0.056171417236328125,
+        "cpu_percent": 0.0,
+        "name": "intelligenceplatformd",
+        "pid": 2969
+    },
+    {
+        "memory_percent": 0.6157875061035156,
+        "cpu_percent": 0.0,
+        "name": "ServiceExtension",
+        "pid": 2973
+    },
+    {
+        "memory_percent": 0.047016143798828125,
+        "cpu_percent": 0.0,
+        "name": "intents_helper",
+        "pid": 2976
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "SetStoreUpdateSe",
+        "pid": 2980
+    },
+    {
+        "memory_percent": 0.11339187622070312,
+        "cpu_percent": 0.0,
+        "name": "mlhostd",
+        "pid": 2983
+    },
+    {
+        "memory_percent": 0.09298324584960938,
+        "cpu_percent": 0.0,
+        "name": "devicecheckd",
+        "pid": 2984
+    },
+    {
+        "memory_percent": 0.08955001831054688,
+        "cpu_percent": 0.0,
+        "name": "extensionkitservice",
+        "pid": 2986
+    },
+    {
+        "memory_percent": 0.08602142333984375,
+        "cpu_percent": 0.0,
+        "name": "CallHistoryPluginHelper",
+        "pid": 2991
+    },
+    {
+        "memory_percent": 0.18339157104492188,
+        "cpu_percent": 0.0,
+        "name": "CallHistorySyncHelper",
+        "pid": 2992
+    },
+    {
+        "memory_percent": 0.023365020751953125,
+        "cpu_percent": 0.0,
+        "name": "com.apple.tonelibraryd",
+        "pid": 2993
+    },
+    {
+        "memory_percent": 0.02269744873046875,
+        "cpu_percent": 0.0,
+        "name": "com.apple.accessibility.mediaaccessibilityd",
+        "pid": 2995
+    },
+    {
+        "memory_percent": 0.130462646484375,
+        "cpu_percent": 0.0,
+        "name": "facetimemessagestored",
+        "pid": 2996
+    },
+    {
+        "memory_percent": 0.062084197998046875,
+        "cpu_percent": 0.0,
+        "name": "callintelligenced",
+        "pid": 3002
+    },
+    {
+        "memory_percent": 0.04673004150390625,
+        "cpu_percent": 0.0,
+        "name": "naturallanguaged",
+        "pid": 3003
+    },
+    {
+        "memory_percent": 0.054645538330078125,
+        "cpu_percent": 0.0,
+        "name": "localspeechrecognition",
+        "pid": 3005
+    },
+    {
+        "memory_percent": 0.46443939208984375,
+        "cpu_percent": 0.0,
+        "name": "Google Chrome Helper (Alerts)",
+        "pid": 3006
+    },
+    {
+        "memory_percent": 2.044200897216797,
+        "cpu_percent": 0.0,
+        "name": "Google Chrome Helper (Renderer)",
+        "pid": 3050
+    },
+    {
+        "memory_percent": 0.43392181396484375,
+        "cpu_percent": 0.0,
+        "name": "Google Chrome Helper",
+        "pid": 3069
+    },
+    {
+        "memory_percent": 0.4881858825683594,
+        "cpu_percent": 0.0,
+        "name": "Google Chrome Helper",
+        "pid": 3070
+    },
+    {
+        "memory_percent": 0.24623870849609375,
+        "cpu_percent": 0.0,
+        "name": "AppleSpell",
+        "pid": 3103
+    },
+    {
+        "memory_percent": 0.06437301635742188,
+        "cpu_percent": 0.0,
+        "name": "keyboardservicesd",
+        "pid": 3104
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "XProtect",
+        "pid": 3198
+    },
+    {
+        "memory_percent": 0.045108795166015625,
+        "cpu_percent": 0.0,
+        "name": "betaenrollmentagent",
+        "pid": 3200
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "betaenrollmentd",
+        "pid": 3201
+    },
+    {
+        "memory_percent": 0.0141143798828125,
+        "cpu_percent": 0.0,
+        "name": "XProtect",
+        "pid": 3202
+    },
+    {
+        "memory_percent": 0.09002685546875,
+        "cpu_percent": 0.0,
+        "name": "VTDecoderXPCService",
+        "pid": 3216
+    },
+    {
+        "memory_percent": 0.079345703125,
+        "cpu_percent": 0.0,
+        "name": "geoanalyticsd",
+        "pid": 3243
+    },
+    {
+        "memory_percent": 0.7584571838378906,
+        "cpu_percent": 0.0,
+        "name": "Google Chrome Helper (Renderer)",
+        "pid": 3254
+    },
+    {
+        "memory_percent": 0.047397613525390625,
+        "cpu_percent": 0.0,
+        "name": "com.apple.audio.SandboxHelper",
+        "pid": 3312
+    },
+    {
+        "memory_percent": 0.061321258544921875,
+        "cpu_percent": 0.0,
+        "name": "extensionkitservice",
+        "pid": 3323
+    },
+    {
+        "memory_percent": 0.17223358154296875,
+        "cpu_percent": 0.0,
+        "name": "TextThumbnailExtension",
+        "pid": 3324
+    },
+    {
+        "memory_percent": 1.5971183776855469,
+        "cpu_percent": 0.0,
+        "name": "Code",
+        "pid": 3325
+    },
+    {
+        "memory_percent": 0.055027008056640625,
+        "cpu_percent": 0.0,
+        "name": "chrome_crashpad_handler",
+        "pid": 3327
+    },
+    {
+        "memory_percent": 0.823974609375,
+        "cpu_percent": 0.0,
+        "name": "Code Helper",
+        "pid": 3328
+    },
+    {
+        "memory_percent": 0.32176971435546875,
+        "cpu_percent": 0.0,
+        "name": "Code Helper",
+        "pid": 3329
+    },
+    {
+        "memory_percent": 1.8544197082519531,
+        "cpu_percent": 0.0,
+        "name": "Code Helper (Renderer)",
+        "pid": 3330
+    },
+    {
+        "memory_percent": 4.490756988525391,
+        "cpu_percent": 0.0,
+        "name": "Code Helper (Renderer)",
+        "pid": 3331
+    },
+    {
+        "memory_percent": 0.658416748046875,
+        "cpu_percent": 0.0,
+        "name": "Code Helper",
+        "pid": 3458
+    },
+    {
+        "memory_percent": 0.4424095153808594,
+        "cpu_percent": 0.0,
+        "name": "Code Helper",
+        "pid": 3487
+    },
+    {
+        "memory_percent": 0.6846427917480469,
+        "cpu_percent": 0.0,
+        "name": "Code Helper",
+        "pid": 4062
+    },
+    {
+        "memory_percent": 1.6507148742675781,
+        "cpu_percent": 0.0,
+        "name": "Code Helper (Plugin)",
+        "pid": 4065
+    },
+    {
+        "memory_percent": 0.0316619873046875,
+        "cpu_percent": 0.0,
+        "name": "pet",
+        "pid": 4204
+    },
+    {
+        "memory_percent": 0.5282402038574219,
+        "cpu_percent": 0.0,
+        "name": "Code Helper",
+        "pid": 4253
+    },
+    {
+        "memory_percent": 0.02002716064453125,
+        "cpu_percent": 0.0,
+        "name": "zsh",
+        "pid": 4254
+    },
+    {
+        "memory_percent": 1.7704010009765625,
+        "cpu_percent": 0.0,
+        "name": "Code Helper (Plugin)",
+        "pid": 4568
+    },
+    {
+        "memory_percent": 0.5318641662597656,
+        "cpu_percent": 0.0,
+        "name": "com.apple.appkit.xpc.openAndSavePanelService",
+        "pid": 4602
+    },
+    {
+        "memory_percent": 0.133514404296875,
+        "cpu_percent": 0.0,
+        "name": "QuickLookUIService",
+        "pid": 4603
+    },
+    {
+        "memory_percent": 0.4532814025878906,
+        "cpu_percent": 0.0,
+        "name": "Code Helper",
+        "pid": 4608
+    },
+    {
+        "memory_percent": 1.906585693359375,
+        "cpu_percent": 0.0,
+        "name": "Code Helper (Plugin)",
+        "pid": 4609
+    },
+    {
+        "memory_percent": 1.0204315185546875,
+        "cpu_percent": 0.0,
+        "name": "Code Helper",
+        "pid": 4612
+    },
+    {
+        "memory_percent": 0.21905899047851562,
+        "cpu_percent": 0.0,
+        "name": "MTLCompilerService",
+        "pid": 4634
+    },
+    {
+        "memory_percent": 0.04024505615234375,
+        "cpu_percent": 0.0,
+        "name": "pet",
+        "pid": 4638
+    },
+    {
+        "memory_percent": 0.01068115234375,
+        "cpu_percent": 0.0,
+        "name": "zsh",
+        "pid": 4678
+    },
+    {
+        "memory_percent": 2.8916358947753906,
+        "cpu_percent": 0.0,
+        "name": "Code Helper (Plugin)",
+        "pid": 4988
+    },
+    {
+        "memory_percent": 0.2594947814941406,
+        "cpu_percent": 0.0,
+        "name": "Code Helper",
+        "pid": 5009
+    },
+    {
+        "memory_percent": 0.0667572021484375,
+        "cpu_percent": 0.0,
+        "name": "VTEncoderXPCService",
+        "pid": 5010
+    },
+    {
+        "memory_percent": 0.052165985107421875,
+        "cpu_percent": 0.0,
+        "name": "com.apple.audio.SandboxHelper",
+        "pid": 5011
+    },
+    {
+        "memory_percent": 0.022411346435546875,
+        "cpu_percent": 0.0,
+        "name": "zsh",
+        "pid": 5012
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "XprotectService",
+        "pid": 5821
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "ReportCrash",
+        "pid": 5822
+    },
+    {
+        "memory_percent": 0.039577484130859375,
+        "cpu_percent": 0.0,
+        "name": "IDSBlastDoorService",
+        "pid": 6025
+    },
+    {
+        "memory_percent": 0.4547119140625,
+        "cpu_percent": 0.0,
+        "name": "Code Helper (Plugin)",
+        "pid": 7674
+    },
+    {
+        "memory_percent": 2.3499488830566406,
+        "cpu_percent": 0.0,
+        "name": "Google Chrome Helper (Renderer)",
+        "pid": 8103
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "netbiosd",
+        "pid": 8734
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "tzd",
+        "pid": 8736
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "XProtectUpdateSe",
+        "pid": 8737
+    },
+    {
+        "memory_percent": 1.1529922485351562,
+        "cpu_percent": 0.0,
+        "name": "Google Chrome Helper (Renderer)",
+        "pid": 8752
+    },
+    {
+        "memory_percent": 0.9617805480957031,
+        "cpu_percent": 0.0,
+        "name": "Google Chrome Helper (Renderer)",
+        "pid": 8753
+    },
+    {
+        "memory_percent": 0.042724609375,
+        "cpu_percent": 0.0,
+        "name": "EscrowSecurityAlert",
+        "pid": 8754
+    },
+    {
+        "memory_percent": 0.8434295654296875,
+        "cpu_percent": 0.0,
+        "name": "Google Chrome Helper (Renderer)",
+        "pid": 8759
+    },
+    {
+        "memory_percent": 1.8457412719726562,
+        "cpu_percent": 0.0,
+        "name": "Google Chrome Helper (Renderer)",
+        "pid": 8769
+    },
+    {
+        "memory_percent": 0.4828453063964844,
+        "cpu_percent": 0.0,
+        "name": "Google Chrome Helper (Renderer)",
+        "pid": 8776
+    },
+    {
+        "memory_percent": 0.036334991455078125,
+        "cpu_percent": 0.0,
+        "name": "com.apple.iCloudHelper",
+        "pid": 8793
+    },
+    {
+        "memory_percent": 0.13875961303710938,
+        "cpu_percent": 0.0,
+        "name": "mdworker_shared",
+        "pid": 8800
+    },
+    {
+        "memory_percent": 0.19092559814453125,
+        "cpu_percent": 0.0,
+        "name": "LinkedNotesUIService",
+        "pid": 8812
+    },
+    {
+        "memory_percent": 0.23069381713867188,
+        "cpu_percent": 0.0,
+        "name": "PowerChime",
+        "pid": 8818
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "com.apple.geod",
+        "pid": 8822
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "secinitd",
+        "pid": 8823
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "cfprefsd",
+        "pid": 8824
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "trustd",
+        "pid": 8825
+    },
+    {
+        "memory_percent": null,
+        "cpu_percent": null,
+        "name": "containermanager",
+        "pid": 8826
+    },
+    {
+        "memory_percent": 0.2521514892578125,
+        "cpu_percent": 0.0,
+        "name": "remindd",
+        "pid": 8828
+    },
+    {
+        "memory_percent": 0.14209747314453125,
+        "cpu_percent": 0.0,
+        "name": "mdworker_shared",
+        "pid": 8830
+    },
+    {
+        "memory_percent": 0.1117706298828125,
+        "cpu_percent": 0.0,
+        "name": "Python",
+        "pid": 8847
+    }
+]
