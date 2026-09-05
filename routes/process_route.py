@@ -3,8 +3,11 @@ import psutil
 process_router = APIRouter()
 
 # get method to get system process info
-@process_router.get("/info")
-def get_process_info(status_code = 200):
+@process_router.get(
+        "/info",
+        status_code = 200
+        )
+def get_process_info():
     data = []
     api_sample_data = []
     for process in psutil.process_iter(["pid", "name", "cpu_percent", "memory_percent"]):
